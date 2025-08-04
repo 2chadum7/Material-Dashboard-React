@@ -196,4 +196,3 @@ export default function App() {
     </ThemeProvider>
   );
 }
-// ทดสอบ push โดย Kristian
